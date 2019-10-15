@@ -19,7 +19,9 @@ class Checkdebt : AppCompatActivity() {
             val intent = Intent(this, Menu::class.java)
             startActivity(intent)
         }
-        btnScan.setOnClickListener {  }
+        btnScan.setOnClickListener {
+            performAction()
+        }
         qrScanIntegrator = IntentIntegrator(this)
         qrScanIntegrator?.setOrientationLocked(false)
     }

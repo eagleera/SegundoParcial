@@ -43,7 +43,7 @@ class Menu : AppCompatActivity() {
             startActivity(intent)
         }
         btnCheck.setOnClickListener {
-            val intent = Intent(this, Cars::class.java)
+            val intent = Intent(this, Checkdebt::class.java)
             startActivity(intent)
         }
     }
