@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SegundoParcial</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="check_debt">Check debt</string>
+    <string name="cars">Cars</string>
+    <string name="about_me">About</string>
+    <string name="log_out">Log Out</string>
+    <string name="user_pwd_incorrect">User or password incorrect!</string>
+    <string name="close">Close</string>
+    <string name="Daniel">Daniel</string>
+    <string name="Aguilera">Aguilera</string>
+    <string name="matricula">4300</string>
+    <string name="github_profile">Check Github Profile</string>
+    <string name="multiplecars">cars...</string>
+    <string name="save_cars">Save Cars</string>
+    <string name="brand">Brand</string>
+    <string name="type">Type</string>
+    <string name="year">Year</string>
+    <string name="debt">Debt</string>
+    <string name="scan_qr">Scan QR</string>
+</resources>
